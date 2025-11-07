@@ -43,4 +43,32 @@
 
 ---
 
+## 📂 Principais Projetos
+
+### 💻 [PI2-Remake](https://github.com/gakita/PI2-Remake)
+**Sistema de Reserva de Passagens Aéreas**  
+Sistema completo de gerenciamento e reserva de passagens aéreas desenvolvido com React (Frontend) e Node.js/Express (Backend), utilizando PostgreSQL como banco de dados.
+
+`TypeScript` `React` `Node.js` `PostgreSQL` `Express`
+
+### 🌍 [KoreaTurism](https://github.com/gakita/KoreaTurism)
+**Landing Page de Turismo**  
+Projeto desenvolvido para estudo de HTML e CSS, apresentando design responsivo e moderno sobre turismo na Coreia.
+
+`HTML` `CSS` `Design Responsivo`
+
+### 💼 [Portifolio](https://github.com/gakita/Portifolio)
+**Portfólio Pessoal**  
+Site portfólio pessoal com interface moderna e responsiva, hospedado no GitHub Pages.
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
+### 🎮 [tcgXpFarm](https://github.com/gakita/tcgXpFarm)
+**Automação para TCG**  
+Script de automação desenvolvido em Python para otimizar tarefas repetitivas em jogos de cartas online.
+
+`Python` `Automação`
+
+---
+
 💬 **Aberto a oportunidades de estágio e projetos colaborativos!**
