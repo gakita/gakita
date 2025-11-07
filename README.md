@@ -30,18 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Github Status](https://github-readme-stats.vercel.app/api?username=gakita&show_icons=true&theme=dracula)
-
----
-
-## 🔗 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-antonio-5a38212a2/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raul_antonio_65/)
-
----
 
 ## 📂 Principais Projetos
 
@@ -60,6 +48,19 @@ Site pessoal com interface moderna e responsiva, hospedado no GitHub Pages.
 ### 📱 [Super ID](https://github.com/feandretta/PI3-Turma5-4.git)  
 **Autenticador de Senhas**  
 Aplicativo mobile com interface moderna para autenticação de senhas.
+
+---
+
+## 📊 GitHub Stats
+
+![Github Status](https://github-readme-stats.vercel.app/api?username=gakita&show_icons=true&theme=dracula)
+
+---
+
+## 🔗 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-antonio-5a38212a2/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raul_antonio_65/)
 
 ---
 
