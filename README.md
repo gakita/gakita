@@ -49,6 +49,8 @@ Site pessoal com interface moderna e responsiva, hospedado no GitHub Pages.
 **Autenticador de Senhas**  
 Aplicativo mobile com interface moderna para autenticação de senhas.
 
+`React` `Firebase Functions` `Kotlin` `Firebase`
+
 ---
 
 ## 📊 GitHub Stats
